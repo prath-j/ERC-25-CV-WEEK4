@@ -10,7 +10,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone 
+    git clone https://github.com/your-username/ERC-25-CV-WEEK4.git
+
     ```
 2. Navigate to the project directory:
     ```sh
