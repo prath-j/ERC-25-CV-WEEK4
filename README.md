@@ -15,7 +15,7 @@
     ```
 2. Navigate to the project directory:
     ```sh
-    cd ERC-25-CV-Week4
+    cd ERC-25-CV-WEEK4
     ```
 3. Install the required dependencies:
     ```sh
