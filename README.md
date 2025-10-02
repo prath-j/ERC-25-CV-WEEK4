@@ -15,7 +15,7 @@
     ```
 2. Navigate to the project directory:
     ```sh
-    cd ERC-CV-Assignment-4
+    cd ERC-25-CV-Week4
     ```
 3. Install the required dependencies:
     ```sh
