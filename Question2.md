@@ -19,7 +19,7 @@ Create a computer vision-based drawing pad where:
 
 - **Real-time Hand Tracking**: Detects and tracks hand landmarks using MediaPipe.  
 - **Virtual Pen Drawing**: Draw lines on the webcam feed using the index finger.  
-- **Interactive Drawing Controls**:  
+- **Interactive Drawing Controls**: Implement commands that allow users to:
   - Switch between different **colors** (e.g., red, blue, green).  
   - Toggle an **eraser mode** to remove drawings.  
   - Change **line style** (thickness or dashed/solid lines).  
