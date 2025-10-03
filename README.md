@@ -2,7 +2,7 @@
 
 - Fork the repo
 - clone it on your system
-- make two separate python files for the questions
+- make two separate python files for both the questions
 - push your changes on github
 - make a pull request
 
